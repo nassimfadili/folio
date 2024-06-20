@@ -1,0 +1,14 @@
+---
+title: "footer"
+description: "Description"
+const getYear = () => new Date().getFullYear().toString();
+---
+
+<footer
+  class="flex justify-center items-center bg-transparent py-4"
+>
+  <p class="flex items-center text-center font-light text-sm text-secondary">
+    &copy; {getYear()} développer par
+    <a target="_blank" class="link ml-1" href="https://github.com/nassimfadili">Nassim Fadili</a>
+  </p>
+</footer>
