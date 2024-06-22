@@ -1,7 +1,7 @@
 ---
 title: Développeur Web
 date: 2024
-url: http://ropibbe.nf/savadru
+url: https://www.linkedin.com/in/nassimfadili/
 location: Monde
 org: Chez vous
 tags: ["Développement", "Front-end", "Startup", "Équipe"]

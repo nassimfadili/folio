@@ -2,7 +2,7 @@
 title: Diplôme Developpeur Informatique Bac +2
 org: OpenClassrooms
 tags: [HTML, CSS, JavaScript, React, Sass, Node.js, SEO]
-url: http://akazedu.edu/seaghi
+url: https://openclassrooms.com/fr/
 date: 2024
 ---
 

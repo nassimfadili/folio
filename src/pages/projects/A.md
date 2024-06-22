@@ -1,6 +1,6 @@
 ---
 title: KASA
-url: http://dan.ma/humbe
+url: https://github.com/nassimfadili/kasa-app
 tags: ["React", "Sass"]
 date: 2024
 ---
